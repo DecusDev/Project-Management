@@ -1,2 +1,2 @@
-# Project-Management
+# Project Management
 A tool for managing projects
